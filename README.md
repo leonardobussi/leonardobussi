@@ -1,9 +1,10 @@
 ### Hey, I'm Leonardo B. Bussi! 👋
 
+⚓️ 22 old years <br>
 🎓 Big Data student at Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
-### contribution to projects 💻
+### Contribution to projects 💻
 
 🗂 CondSystem(Scrum master) [gitlab](gitlab.com/bdag/condsystem) <br>
 🗂 Projeto-DTX-SPSP(Dev) [gitlab](https://gitlab.com/BDAg/Projeto-DTX-SPSP) <br>
