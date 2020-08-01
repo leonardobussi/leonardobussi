@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I'm Leonardo B. Bussi! 👋
 
-<!--
-**leonardobussi/leonardobussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Big Data student at Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
+🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
-Here are some ideas to get you started:
+### contribution to projects 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗂 CondSystem(Scrum master) [gitlab](gitlab.com/bdag/condsystem) <br>
+🗂 Projeto-DTX-SPSP(Dev) [gitlab](https://gitlab.com/BDAg/Projeto-DTX-SPSP) <br>
+🗂 VisitorCode(Dev) [gitlab](https://gitlab.com/BDAg/qrcodevisits) <br>
+🗂 Agrometeorologia(Dev) [gitlab](https://gitlab.com/BDAg/Agrometeorologia) <br>
+
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://leonardobussi.github.io) <br>
+📸 [Instagram](https://instagram.com/dev_bussi) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/leonardobbussi/) <br>
