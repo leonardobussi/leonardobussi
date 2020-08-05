@@ -7,7 +7,7 @@
 ### Contact 📱
 
 📨 E-mail: leonardobezerrabussy@gmail.com <br>
-📞 phone number: +55 14 988374395 <br>
+📞 phone number: ` +55 14 988374395 ` <br>
 
 ### Contribution to projects 💻
 
