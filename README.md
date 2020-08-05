@@ -4,6 +4,11 @@
 🎓 Student Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
+### Contact 📱
+
+📨 E-mail: leonardobezerrabussy@gmail.com <br>
+📞 phone number: +55 14 988374395 <br>
+
 ### Contribution to projects 💻
 
 🗂 CondSystem(Scrum master) [gitlab](gitlab.com/bdag/condsystem) <br>
