@@ -4,6 +4,8 @@
 🎓 Student Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
+> Thank you, Lord, for your wonderful love. (Psalm 107: 15).
+
 ### Contact 📱
 
 📨 E-mail: leonardobezerrabussy@gmail.com <br>
