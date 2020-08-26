@@ -16,7 +16,7 @@
 
 ### Contribution to projects 💻
 
-🗂 CondSystem(Scrum master) [gitlab](gitlab.com/bdag/condsystem) <br>
+🗂 CondSystem(Scrum master) [gitlab](https://gitlab.com/bdag/condsystem) <br>
 🗂 Projeto-DTX-SPSP(Dev) [gitlab](https://gitlab.com/BDAg/Projeto-DTX-SPSP) <br>
 🗂 VisitorCode(Dev) [gitlab](https://gitlab.com/BDAg/qrcodevisits) <br>
 🗂 Agrometeorologia(Dev) [gitlab](https://gitlab.com/BDAg/Agrometeorologia) <br>
