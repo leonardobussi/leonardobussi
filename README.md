@@ -24,6 +24,6 @@
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](https://leonardobussi.github.io) <br>
+🚀 [Site (not portfolio)](https://leonardobussi.github.io) <br>
 📸 [Instagram](https://instagram.com/dev_bussi) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/leonardobbussi/) <br>
