@@ -21,7 +21,8 @@
 🗂 VisitorCode(Dev) [gitlab](https://gitlab.com/BDAg/qrcodevisits) <br>
 🗂 Agrometeorologia(Dev) [gitlab](https://gitlab.com/BDAg/Agrometeorologia) <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leonardobussi&show_icons=true&theme=radical)
+![leonardobussi github stats](https://github-readme-stats.vercel.app/api?username=leonardobussi&show_icons=true&theme=radical)
+![leonardobussi github stack](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardobussi&layout=compact&theme=radical)
 
 
 ### Find me elsewhere 🌎
