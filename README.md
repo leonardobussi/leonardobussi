@@ -3,7 +3,7 @@
 
 ##### Good fleece here
 
-⚓️ 22 old years <br>
+⚓️ 22 years old <br>
 🎓 Student Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
