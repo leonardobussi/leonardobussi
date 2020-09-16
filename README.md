@@ -21,7 +21,7 @@
 🗂 VisitorCode(Dev) [gitlab](https://gitlab.com/BDAg/qrcodevisits) <br>
 🗂 Agrometeorologia(Dev) [gitlab](https://gitlab.com/BDAg/Agrometeorologia) <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobezerra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobussi)
 
 ### Find me elsewhere 🌎
 
