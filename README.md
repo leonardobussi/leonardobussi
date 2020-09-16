@@ -22,10 +22,7 @@
 🗂 Agrometeorologia(Dev) [gitlab](https://gitlab.com/BDAg/Agrometeorologia) <br>
 
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leonardobussi&repo=leonardobussi.github.io&theme=radical" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobussi)
 
 ### Find me elsewhere 🌎
 
