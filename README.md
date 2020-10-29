@@ -30,5 +30,5 @@
 ### Find me elsewhere 🌎
 
 🚀 [Site (not portfolio)](https://leonardobussi.github.io) <br>
-📸 [Instagram](https://instagram.com/dev_bussi) <br>
+📸 [Instagram](https://instagram.com/bussi_bussi) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/leonardobbussi/) <br>
