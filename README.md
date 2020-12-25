@@ -25,7 +25,7 @@
 🗂 Agrometeorologia(Dev) [gitlab](https://gitlab.com/BDAg/Agrometeorologia) <br>
 
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardobussi&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardobussi&layout=compact&theme=dracula" />
 
 
 ### Find me elsewhere 🌎
