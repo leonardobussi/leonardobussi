@@ -1,4 +1,4 @@
-### Hey, I'm Leonardo B. Bussi! 👋
+### Hey, I'm Leonardo B. Bussi! 🖖
 
 
 ##### Good fleece here
