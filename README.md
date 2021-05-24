@@ -8,9 +8,7 @@
 💻 Software developer trainne at Leavening Accelerator <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
-> Thank you, Lord, for your wonderful love. (Psalm 107: 15).
-
-### Contact 📱
+### Contacts 📱
 
 📨 E-mail: leonardobezerrabussy@gmail.com <br>
 📞 phone number: ` +55 14 988374395 ` <br>
@@ -18,7 +16,6 @@
 ### Contribution to projects 💻
 
 🗂 DTX-Robocrop(Dev) [gitlab](https://gitlab.com/dtx-robocrop) <br>
-🗂 Gadosfera() [gitlab](https://gitlab.com/bdag/gadosfera) <br>
 🗂 CondSystem(Scrum master) [gitlab](https://gitlab.com/bdag/condsystem) <br>
 🗂 Projeto-DTX-SPSP(Dev) [gitlab](https://gitlab.com/BDAg/Projeto-DTX-SPSP) <br>
 🗂 VisitorCode(Dev) [gitlab](https://gitlab.com/BDAg/qrcodevisits) <br>
