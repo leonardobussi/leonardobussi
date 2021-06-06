@@ -12,6 +12,7 @@
 
 📨 E-mail: leonardobezerrabussy@gmail.com <br>
 📞 phone number: ` +55 14 988374395 ` <br>
+🎮 Steam: `https://steamcommunity.com/profiles/76561198818422659`
 
 ### Contribution to projects 💻
 
