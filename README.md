@@ -12,7 +12,6 @@
 
 📨 E-mail: leonardobezerrabussy@gmail.com <br>
 📞 phone number: ` +55 14 988374395 ` <br>
-🎮 Steam: `https://steamcommunity.com/profiles/76561198818422659`
 
 ### Contribution to projects 💻
 
@@ -31,6 +30,7 @@
 🚀 [Site](https://leonardobussi.github.io) <br>
 📸 [Instagram](https://instagram.com/bussi_leo) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/leonardobbussi/) <br>
+🎮 Steam: `https://steamcommunity.com/profiles/76561198818422659`
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leonardobussi.leonardobussi)
