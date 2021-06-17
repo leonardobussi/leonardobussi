@@ -4,7 +4,7 @@
 ##### Good fleece here
 
 ⚓️ 23 years old <br>
-🎓 Student Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
+🎓 Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 💻 Software developer trainne at Leavening Accelerator <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
