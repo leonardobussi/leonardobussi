@@ -15,6 +15,7 @@
 
 ### Contribution to projects 💻
 
+🗂 StreInvest_api [github](https://github.com/StreInvest/streinvest_api) <br>
 🗂 DTX-Robocrop(Dev) [gitlab](https://gitlab.com/dtx-robocrop) <br>
 🗂 CondSystem(Scrum master) [gitlab](https://gitlab.com/bdag/condsystem) <br>
 🗂 Projeto-DTX-SPSP(Dev) [gitlab](https://gitlab.com/BDAg/Projeto-DTX-SPSP) <br>
