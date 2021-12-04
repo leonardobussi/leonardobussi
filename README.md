@@ -5,13 +5,14 @@
 
 ⚓️ 23 years old <br>
 🎓 Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
-💻 Software developer trainne at Leavening Accelerator <br>
+💻 Junior developer at [dponet](https://www.dponet.com.br/) <br>
+💻 Partner at Leavening Accelerator <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
 ### Contacts 📱
 
 📨 E-mail: leonardobezerrabussy@gmail.com <br>
-📞 phone number: ` +55 14 988374395 ` <br>
+📞 phone number: ` +55 ` <br>
 
 ### Contribution to projects 💻
 
