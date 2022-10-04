@@ -11,7 +11,7 @@
 
 ### Contacts 📱
 
-📨 E-mail: leonardobezerrabussy@gmail.com <br>
+📨 E-mail: @gmail.com <br>
 📞 phone number: ` +55 ` <br>
 
 ### Contribution to projects 💻
