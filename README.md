@@ -3,13 +3,15 @@
 
 ##### Good fleece here
 
-⚓️ 23 years old <br>
+⚓️ 24 years old <br>
 🎓 Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 💻 Junior developer at [dponet](https://www.dponet.com.br/) <br>
 💻 Partner at [Leavening Accelerator](https://leavening.com/) <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
 ### Contacts 📱
+
+* As I receive a lot of spam I will not disclose my contacts
 
 📨 E-mail: @gmail.com <br>
 📞 phone number: ` +55 ` <br>
