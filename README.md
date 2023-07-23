@@ -3,10 +3,9 @@
 
 ##### Good fleece here
 
-⚓️ 24 [current year] years old <br>
+⚓️ 25 years old <br>
 🎓 Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 💻 Junior developer at [dponet](https://www.dponet.com.br/) <br>
-💻 Partner at [Leavening Accelerator](https://leavening.com/) <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
 
 ### Contacts 📱
@@ -31,11 +30,10 @@
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](https://leonardobussi.github.io) <br>
 📸 [Instagram](https://instagram.com/bussi_leo) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/leonardobbussi/) <br>
-🎮 [Steam](https://steamcommunity.com/profiles/76561198818422659) <br>
-🖥️ Discord `Leonardo Bussi#1328` <br>
+🎮 [Steam](https://steamcommunity.com/id/leonardobussi) <br>
+🖥️ Discord `Bussi#1328` <br>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leonardobussi.leonardobussi)
