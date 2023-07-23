@@ -3,7 +3,7 @@
 
 ##### Good fleece here
 
-⚓️ 24 years old <br>
+⚓️ 24 [current year] years old <br>
 🎓 Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 💻 Junior developer at [dponet](https://www.dponet.com.br/) <br>
 💻 Partner at [Leavening Accelerator](https://leavening.com/) <br>
