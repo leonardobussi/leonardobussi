@@ -3,7 +3,7 @@
 
 ##### Good fleece here
 
-⚓️ 25 years old <br>
+⚓️ 26 years old <br>
 🎓 Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
 💻 Junior developer at [dponet](https://www.dponet.com.br/) <br>
 🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
@@ -18,7 +18,7 @@
 ### Contribution to projects 💻
 
 🗂 StreInvest_api [github](https://github.com/StreInvest/streinvest_api) <br>
-🗂 DTX-Robocrop(Dev) [gitlab](https://gitlab.com/dtx-robocrop) <br>
+🗂 DTX-Robocrop(Dev) <br>
 🗂 CondSystem(Scrum master) [gitlab](https://gitlab.com/bdag/condsystem) <br>
 🗂 Projeto-DTX-SPSP(Dev) [gitlab](https://gitlab.com/BDAg/Projeto-DTX-SPSP) <br>
 🗂 VisitorCode(Dev) [gitlab](https://gitlab.com/BDAg/qrcodevisits) <br>
