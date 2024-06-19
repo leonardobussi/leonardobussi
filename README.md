@@ -5,8 +5,8 @@
 
 ⚓️ 26 years old <br>
 🎓 Graduated in Big Data in Agribusiness at Fatec Shunji Nishimura. [gitlab](https://gitlab.com/bdag/) <br>
-💻 Junior developer at [dponet](https://www.dponet.com.br/) <br>
-🇧🇷 Born in Pompeia - São Paulo, Brazil <br>
+💻 Mid-level developer at [DPOnet](https://www.dponet.com.br/) <br>
+🇧🇷 Born in São Paulo, Brazil <br>
 
 ### Contacts 📱
 
