@@ -8,13 +8,6 @@
 💻 Mid-level developer at [DPOnet](https://www.dponet.com.br/) <br>
 🇧🇷 Born in São Paulo, Brazil <br>
 
-### Contacts 📱
-
-* As I receive a lot of spam I will not disclose my contacts
-
-📨 E-mail: @gmail.com <br>
-📞 phone number: ` +55 ` <br>
-
 ### Contribution to projects 💻
 
 🗂 StreInvest_api [github](https://github.com/StreInvest/streinvest_api) <br>
@@ -33,7 +26,6 @@
 📸 [Instagram](https://instagram.com/bussi_leo) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/leonardobbussi/) <br>
 🎮 [Steam](https://steamcommunity.com/id/leonardobussi) <br>
-🖥️ Discord `Bussi#1328` <br>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leonardobussi.leonardobussi)
